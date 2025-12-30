@@ -46,10 +46,9 @@ See `datapath.png` for the full datapath diagram.
 
 ### 🧠 Programs
 - `machine_code.mem` – Compiled RISC-V machine code
+- create this file ^ using a text editor and copy one of the programs into this `machine_code.mem` file
 
 ### 📄 Documentation
 - `datapath.png` – Processor datapath diagram
+- `RISC-V 32i ISA` - ISA descriptions
 
-### 📌 Project Files
-- `README.md`
-- `LICENSE`
